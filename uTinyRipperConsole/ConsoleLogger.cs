@@ -9,8 +9,8 @@ namespace uTinyRipperConsole
 		{
 			if(!RunetimeUtils.IsRunningOnMono)
 			{
-				Console.WindowWidth = (int)(Console.LargestWindowWidth * 0.8f);
-				Console.BufferHeight = 2000;
+				// Console.WindowWidth = (int)(Console.LargestWindowWidth * 0.8f);
+				// Console.BufferHeight = 2000;
 			}
 		}
 
